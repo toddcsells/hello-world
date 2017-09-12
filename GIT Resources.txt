@@ -1,0 +1,7 @@
+Here are some links to some resources:
+
+https://www.youtube.com/watch?v=5mVlubaxpb0
+https://www.youtube.com/watch?v=odQJi9kfZ-A
+http://resources.docs.salesforce.com/rel1/doc/en-us/static/pdf/SF_Git_cheatsheet_web.pdf
+https://www.youtube.com/watch?v=ptK9-CNms98
+https://guides.github.com/activities/hello-world/
